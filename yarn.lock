@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@acemarke/react-prod-sourcemaps@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@acemarke/react-prod-sourcemaps/-/react-prod-sourcemaps-0.2.1.tgz#329d4ada4661c368a47fcfb4abd132efcba62303"
-  integrity sha512-w9wZm31md0NEZpq/ro9Ny1JU2g2uSeozZ1RyanFFU3zrrm6d8e0JCRKtt4EZcEKiz8VOW2MqTkFR3wF3L+H5cQ==
+"@acemarke/react-prod-sourcemaps@^0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@acemarke/react-prod-sourcemaps/-/react-prod-sourcemaps-0.3.1.tgz#9e1089c3051d92cb88e9ea9ad23acd6e0b6cc4d2"
+  integrity sha512-17xZg1nv6OM5hFBNzml4IPhegcwJ58qM8341wo3HzawcXPmbBQf99iPBKCQX2KlOWaeTj65kptluyp9bpLyvpw==
   dependencies:
     "@ampproject/remapping" "^2.2.1"
     "@jridgewell/resolve-uri" "^3.1.1"
